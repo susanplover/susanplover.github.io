@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+  <head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta charset="utf-8">
+
+    <title>Susan Plover</title>
+    <meta name="description" content="An emerging artist with a First class Honours degree in Fine Art (2012). My practice is a vehicle for questioning and navigating personal mythology.">
+
+    <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+
+    <%= stylesheet_link_tag :site %>
+  </head>
+
+  <body class="<%= page_classes %>">
+    <div id="layout">
+      <div class="banner pure-u-1">
+        <% link_to "/" do %>
+          <h1>Susan Plover. B.A. (hons) Fine Art</h1>
+        <% end %>
+      </div>
+
+      <div class="sidebar pure-u-1">
+        <div class="header">
+          <h3>Collections</h3>
+          <nav class="nav">
+            <ul class="nav-list">
+              <% data.collections.collection_nav.keys.each do |nav_item| %>
+                <li class="nav-item <%= nav_active(change_to_url(nav_item), current_page.path, options: "/index.html") %>">
+                  <%= link_to nav_item.split(/ |\_/).map(&:capitalize).join(" "), change_to_url(nav_item) %>
+                </li>
+              <% end %>
+            </ul>
+          </nav>
+          <nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item <%= nav_active("/artist-statement", current_page.path, options: ".html") %>">
+                <% link_to "/artist-statement" do %>
+                  Artist Statement
+                <% end %>
+              </li>
+              <li class="nav-item <%= nav_active(change_to_url("/curriculum-vitae"), current_page.path, options: ".html") %>">
+                <% link_to "/curriculum-vitae" do %>
+                  CV Highlights
+                <% end %>
+              </li>
+              <li class="nav-list"><%= mail_to "lady-s@blueyonder.co.uk", "CONTACT", target: "blank" %></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <%= yield %>
+      <small style="float: right;">&copy; <%= Time.now.strftime("%Y") %> by Susan Plover</small>
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <%= javascript_include_tag :all %>
+    <script type="text/javascript" src="/javascripts/jquery.chocolat.js"></script>
+  </body>
+</html>

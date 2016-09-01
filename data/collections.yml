@@ -1,0 +1,157 @@
+collection_nav:
+  the_domestic_landscape:
+    description: "Collage, of a more minimalist style, combines domestic patterns and props with surreal intent.\n\n Often dreamlike in nature and image quality, this series questions perceptions of relationships and unconscious thoughts. Leaning heavily on Magritte and Steampunk, recognisable images are re-contextualised to prompt new narratives."
+    pieces:
+      - piece:
+          url: "/images/balancing_act.jpg"
+          title: "Balancing Act - 2013"
+          details: "- Coffee, paper on card. 12.5 x 18 cm"
+      - piece:
+          url: "/images/blueroom.jpg"
+          title: "Blue Room"
+          details: "- Paper on card. 18 x 24 cm"
+      - piece:
+          url: "/images/love_is_not_enough.jpg"
+          title: "Love is not enough"
+          details: "- Paper on card. 21 x 17 cm"
+      - piece:
+          url: "/images/sexwallpaper.jpg"
+          title: "Sexwallpaper"
+          details: "- Paper on wallpaper. 18 x 12.5 cm"
+      - piece:
+          url: "/images/in_my_dreams.jpg"
+          title: "In my dreams"
+          details: "- Drawing; Paper on card. 18 x 12.5 cm"
+
+  portraits:
+    description: "These four experimental portraits are indeed a hybrid of traditional  techniques. A meld of drawing, watercolour, painting and finally layering of papers.\n\n In each piece the background is a vital part of the narrative. Beginning with the complete stark whiteness within which the young typist floats defying time, the chintz fabric and vintage paper registering memories and finally the cold black void behind 'Everyman.'"
+    pieces:
+      - piece:
+          url: "/images/chinzt.jpg"
+          title: "Chinzt"
+          details: "- Image transfer on fabric 12 x 17 cm"
+          gallery: " - 'No Image Available.' Media City 2012"
+      - piece:
+          url: "/images/everyman.jpg"
+          title: "Everyman"
+          details: "- Drawing, watercolour, collage on black card."
+          gallery: " - Bolton University Degree Show. 2012."
+      - piece:
+          url: "/images/old_girl_with_a_pearl_earring.jpg"
+          title: "Old Girl With A Pearl Earring"
+          details:  "- Drawing, watercolour, wallpaper on Photographic paper.
+            21 x 29.5 cm"
+          gallery: " - 'Beneath the Surface' St Georges Gallery 2013"
+      - piece:
+          url: "/images/once.jpg"
+          title: "Once"
+          details: "- Collage, pencil, watercolour, Fabriano paper. 29.5 x 21 cm."
+          gallery: " - WalltoWall Gallery. 2013"
+
+  the_dark_collection:
+    description: "This series are linked by their deliberately miss-en-scene palette. The titles create another level of ambiguity for the viewer as the just posed images jar with tension. Reference is made to the art historical as it blends uncomfortably with the new."
+    pieces:
+      - piece:
+          url: "/images/dancing_days_are_over.jpg"
+          title: "Dancing Days are Over"
+          details: "- Paper on card. 12.5 x 18 cm."
+      - piece:
+          url: "/images/anyman.jpg"
+          title: "Anyman"
+          details: "- Paper on card. 15 x 20.5 cm."
+      - piece:
+          url: "/images/maize.jpg"
+          title: "Maize"
+          details: "- Paper on black packing card. 21 x 29.5 cm."
+      - piece:
+          url: "/images/spotlight.jpg"
+          title: "Spotlight"
+          details: "- Acetate, string, paper, printed on hotographic paper. 12 x 15."
+      - piece:
+          url: "/images/luncheon_voucher.jpg"
+          title: "Lucheon Voucher"
+          details: "- Paper on card. 21 x 15 cm."
+
+  sculptures:
+    pieces:
+      - piece:
+          url: "/images/one_track_mind.jpg"
+          title: "One Track Mind"
+          gallery: "- Sketch/combine for 2015 solo show"
+      - piece:
+          url: "/images/once_upon_a_time.jpg"
+          title: "Once Upon a Time"
+          gallery: "- The Gallery, Bank Quay House 2013"
+      - piece:
+          url: "/images/above_us_only_sky.jpg"
+          title: "Above us only sky"
+          gallery: "- The Old Rope Gallery, Antwerp Mansion 2014"
+      - piece:
+          url: "/images/happy_families.jpg"
+          title: "Happy Families"
+          gallery: "- Framed photograph, digitally transferred ceramic plate, vintage wooden ornament. Shown displayed upon a magnolia painted domestic shelf."
+      - piece:
+          url: "/images/feted_to_pretend_in_magnolia.jpg"
+          title: "Feted to Pretend... In Magnolia!"
+          gallery: "- Hopkinson Gallery 2014"
+
+  the_pyramid_collection:
+    description: "The Pyramid Collection was a solo show in The Cultural Quarter of Warrington titled . 'Love is in the Air.'\n\n Each image riffs upon the darker side of romance and relationships building into a full blown narrative flecked with a noire sexual undertone and gallows humour Inspired by personal mythology, the heart of the show is a strong female voice that finally emerges triumphant and free."
+    pieces:
+      - piece:
+          url: "/images/love_at_first_sight.jpg"
+          title: "Love at first sight"
+      - piece:
+          url: "/images/one_night_stand.jpg"
+          title: "One night stand"
+      - piece:
+          url: "/images/shotgun_wedding.jpg"
+          title: "Shotgun Wedding"
+      - piece:
+          url: "/images/so_many_men_so_little_time.jpg"
+          title: "So many men so little time"
+      - piece:
+          url: "/images/above_it_all.jpg"
+          title: "Above it all"
+
+  sacred_and_profane:
+    description: "The Sacred and Profane Collection was commisioned for the Revelations Festival in August 2014.\n\n The collages were symbolically nailed to the walls of the Oxford House Gallery in Bethnal Green,London. Each piece responds to the brief but the viewer navigates whether the narrative is a depiction of a Sacred or Profane.\n\n With deliberate recontexturalised religous iconography and subversive borrowing from the art historical, the collection challenges accepted perceptions."
+    pieces:
+      - piece:
+          url: "/images/sacred_vows.jpg"
+          title: "Sacred Vows"
+      - piece:
+          url: "/images/guardian_angels.jpg"
+          title: "Guardian Angels"
+      - piece:
+          url: "/images/last_christmas_i_gave_you_my_heart.jpg"
+          title: "Last Christmas I Gave You My Heart"
+      - piece:
+          url: "/images/light_of_my_world.jpg"
+          title: "Light of my World"
+      - piece:
+          url: "/images/30_pieces_of_silver.jpg"
+          title: "30 Pieces of Silver"
+
+  the_new_golden_collection:
+    description: "The New Golden collection evolved from the piece, 'Five Gold Rings', produced for the Christmas 2014 show at The Kitchen Window Gallery in London.\n\n For the first time I worked back into my collages using them as a ground for further experimentation. They became sketches waiting for paint \n\n Employing the medium of watercolour my own palette emerged to finally be garnished with a flourish of golden paint both as a surface device and riffing upon it's iconic religious origins. Gold became a material and a concept... until the last piece was deliberately created devoid of golden hues. 'End of The Pier.....Silence is Golden', is a dark visual riff upon common parlance... a pun for the series finale! "
+    pieces:
+      - piece:
+          url: "/images/silence_is_golden.jpg"
+          title: "Silence is Golden (End of the Pier)"
+          detail: "- 10 x 15 cm."
+          gallery: " - Fareham Art Trail. 2015"
+      - piece:
+          url: "/images/secret_garden_golden_moments.jpg"
+          title: "Secret Garden - Golden Moments"
+          details: "- 21 x 29.5 cm."
+          gallery: " - The White Room Gallery, York 2015"
+      - piece:
+          url: "/images/5_gold_rings.jpg"
+          title: "5 Gold Rings"
+          gallery: "- The Kitchen Window Collection 2014"
+      - piece:
+          url: "/images/the_man_with_the_golden_gun.jpg"
+          title: "The Man with the Golden Gun"
+          details: "- 13 x 17.5 cm"
+          gallery: " - Artizan Gallery, Torquay 2015"
