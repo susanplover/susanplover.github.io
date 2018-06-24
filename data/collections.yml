@@ -1,4 +1,47 @@
 collection_nav:
+  the_tate_collection:
+    description: "30th July - 5th August 2018. Showing as part of the Venice vending machine 10 original miniatures."
+    pieces:
+      - piece:
+          url: "/images/old-master-with-hotdogs.jpg"
+          title: "Old Master With Hotdogs"
+          details: ""
+      - piece:
+          url: "/images/self-portrait.jpg"
+          title: "Self Portrait"
+          details: ""
+      - piece:
+          url: "/images/brass.jpg"
+          title: "Brass"
+          details: ""
+      - piece:
+          url: "/images/sunflowers.jpg"
+          title: "Sunflowers"
+          details: ""
+      - piece:
+          url: "/images/landscape-painting.jpg"
+          title: "Landscape Painting"
+          details: ""
+      - piece:
+          url: "/images/crime-of-passion.jpg"
+          title: "Crime of Passion"
+          details: ""
+      - piece:
+          url: "/images/eyespy.jpg"
+          title: "Eyespy"
+          details: ""
+      - piece:
+          url: "/images/out-of-the-frame.jpg"
+          title: "Out of the Frame"
+          details: ""
+      - piece:
+          url: "/images/celebrity-big-brother.jpg"
+          title: "Celebrity Big Brother"
+          details: ""
+      - piece:
+          url: "/images/housewife.jpg"
+          title: "Housewife"
+          details: ""
   the_domestic_landscape:
     description: "Collage, of a more minimalist style, combines domestic patterns and props with surreal intent.\n\n Often dreamlike in nature and image quality, this series questions perceptions of relationships and unconscious thoughts. Leaning heavily on Magritte and Steampunk, recognisable images are re-contextualised to prompt new narratives."
     pieces:
