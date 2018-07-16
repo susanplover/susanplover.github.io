@@ -42,6 +42,33 @@ collection_nav:
           url: "/images/housewife.jpg"
           title: "Housewife"
           details: ""
+  international_collection:
+    description: "In the last 12 months I have expanded my practice to an International audience, shown new pieces in Zines and embraced digital art.<br><br>Curatorially, I have been more experimental having work in a vending machine at the Venice Biennale, at The Truman Brewery in a skip and printed upon hand towels in a London gents urinal!"
+    pieces:
+      - piece:
+          url: "/images/the-steaks-were-high.jpg"
+          title: "The Steaks Were High"
+          details: " - Frisson Zine-Liverpool."
+      - piece:
+          url: "/images/woven-in-time.jpg"
+          title: "Woven In Time"
+          details: " - (Digital Art) The Wrong Biennale. Athens."
+      - piece:
+          url: "/images/narcissus.jpg"
+          title: "Narcissus"
+          details: " - Metro Pictures - New York / Organ Zine-Londo / Solo Show - Manchester."
+      - piece:
+          url: "/images/blue-for-you.jpg"
+          title: "Blue For You"
+          details: " - The Sacred Water Exhibition - Los Angeles / 4th International Water Festival - commission."
+      - piece:
+          url: "/images/moment-of-reflection.jpg"
+          title: "Moment Of Reflection"
+          details: " - Venice Biennale / Pop Up - Manchester"
+      - piece:
+          url: "/images/gilded-cage.jpg"
+          title: "Gilded Cage"
+          details: " - International Feminism Conference - London / Lustre Zine - London"
   the_domestic_landscape:
     description: "Collage, of a more minimalist style, combines domestic patterns and props with surreal intent.\n\n Often dreamlike in nature and image quality, this series questions perceptions of relationships and unconscious thoughts. Leaning heavily on Magritte and Steampunk, recognisable images are re-contextualised to prompt new narratives."
     pieces:
