@@ -29,11 +29,11 @@ INTERNATIONAL SHOWS
 - "Plenty More Fish" - Los Angeles
 
 
-### SOLO SHOW
+### SOLO SHOW - The Age Of Reason - Isherwood Gallery
 
-- The Age Of Reason - Isherwood Gallery
+### Zines
 
-- Zines - Organ - London
+- Organ - London
 
 - Frisson - Liverpool
 
