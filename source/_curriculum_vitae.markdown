@@ -29,7 +29,9 @@ INTERNATIONAL SHOWS
 - "Plenty More Fish" - Los Angeles
 
 
-### SOLO SHOW - The Age Of Reason - Isherwood Gallery
+### SOLO SHOW
+
+- The Age Of Reason - Isherwood Gallery
 
 ### Zines
 
