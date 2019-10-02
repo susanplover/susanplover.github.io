@@ -1,4 +1,32 @@
 collection_nav:
+  the_goodwill_collection:
+    description: "This year has seen my practice expand into publication, from 'Fake News' to a Yorkshire Rail newspaper.\nMy work's been published in both a traditional hard back book and an online E Book. Interest in Zines has not diminished with pieces featured in both art mainstream and horror publications. Actual pieces have found themselves in diverse locations from a micro pub to a fertility clinic, but my growing focus is upon supporting charitable causes.\nTo this extent my new collection is called - 'The Goodwill Collection'"
+    pieces:
+      - piece:
+          url: "/images/holiday-fling.jpg"
+          title: "Holiday Fling"
+          details: "Dwell Time Project,
+          Huddesfield rail line (free newspaper publication) - Supporting men with counselling for addiction, depression and mental health issues."
+      - piece:
+          url: "/images/little-old-wine-drinking-me.jpg"
+          title: "Little Old Wine Drinking Me"
+          details: "Oxo Tower Wharf, London. The National Brain Appeal."
+      - piece:
+          url: "/images/the-gift.jpg"
+          title: "The Gift"
+          details: "Camsight Art Space - Cambridge. Supporting blind and visually impaired artists."
+      - piece:
+          url: "/images/perspective.jpg"
+          title: "Perspective"
+          details: "BORTOLAMI GALLERY - New York. Supporting Aids Research in USA."
+      - piece:
+          url: "/images/they-walk-amonst-us.jpg"
+          title: "The Walk Amongst Us"
+          details: "Surprise, Project Gallery - Athens. Supporting the homeless."
+      - piece:
+          url: "/images/portrait-of-an-artist.jpg"
+          title: "Portrait of an Artist"
+          details: "World Mental Health Day 10/10/19 - Well Space - London."
   the_tate_collection:
     description: "31th July - 5th August 2018. Showing at Tate Liverpool as part of the Venice vending machine 10 original miniatures."
     pieces:
